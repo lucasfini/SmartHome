@@ -14,6 +14,8 @@
 
 <p> Finished with my Schedule, Started to work on my Budget for next week. <p>
 
+![Image of Schedule](https://github.com/lucasfini/SmartHome/blob/master/images/ScheduleW.png)
+
 ![Image of Schedule](https://github.com/lucasfini/SmartHome/blob/master/images/ScheduleI.png)
 
 
