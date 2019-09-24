@@ -1,2 +1,2 @@
-# SmartLock
- lucasfini.github.io/SmartLock
+# SmartHome
+ lucasfini.github.io/SmartHome
