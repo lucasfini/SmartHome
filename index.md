@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <h1 id="september-5th-week-1">September 5th, 2019 (Week 1)</h1>
 
 <p> Today I created the repository.</p>
@@ -9,3 +13,7 @@
 <h1 id="september-17th-week-3">September 17th, 2019 (Week 3)</h1>
 
 <p> Finished with my Schedule, Started to work on my Budget for next week. <p>
+
+
+</body>
+</html>
