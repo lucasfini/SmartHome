@@ -1,7 +1,7 @@
 
-<header>
-  Smart Home Monitor - Lucas, Andrew, Luca
-  </header>
+
+ <h1> Smart Home Monitor - Lucas, Andrew, Luca </h1>
+
 
 
 
