@@ -5,3 +5,7 @@
 <h1 id="september-10th-week-2">September 10th, 2019 (Week 2)</h1>
 
 <p> Today I handed in my proposal. Was not able to complete the whole proposal. Since my group is doing our own project, we are still searching for a collaborator. </p>
+
+<h1 id="september-17th-week-3">September 17th, 2019 (Week 3)</h1>
+
+<p> Finished with my Schedule, Started to work on my Budget for next week. <p>
