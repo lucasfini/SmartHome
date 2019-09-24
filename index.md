@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <h1 id="september-5th-week-1">September 5th, 2019 (Week 1)</h1>
 
@@ -23,6 +21,3 @@
   
   ![Image of Budget](https://github.com/lucasfini/SmartHome/blob/master/images/Budget2019.png)
 
-
-</body>
-</html>
