@@ -18,6 +18,11 @@
 
 ![Image of Schedule](https://github.com/lucasfini/SmartHome/blob/master/images/ScheduleI.png)
 
+h1 id="september-24th-week-4">September 24th, 2019 (Week 4)</h1>
+<p> Finished with Budget. Need to order Parts for next week. <p>
+  
+  ![Image of Budget](https://github.com/lucasfini/SmartHome/blob/master/images/Budget2019.png)
+
 
 </body>
 </html>
