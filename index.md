@@ -13,7 +13,7 @@
 
 <p> Today I handed in my proposal. Was not able to complete the whole proposal. Since my group is doing our own project, we are still searching for a collaborator. </p>
 <p> Proposal </p>
-Created ![Proposal](https://github.com/lucasfini/SmartHome/blob/master/documentation/ProposalContentLucasRev03-1.xlsx)
+Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
 
 <h1 id="september-17th-week-3">September 17th, 2019 (Week 3)</h1>
 
