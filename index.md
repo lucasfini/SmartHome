@@ -28,3 +28,7 @@
   
   ![Image of Budget](https://github.com/lucasfini/SmartHome/blob/master/images/Budget2019.png)
 
+<h1 id="october-01th-week-5">October 01th, 2019 (Week 5)</h1>
+<p> Got my parts for future weeks. Proof of purchase is below. <p>
+ 
+ ![Image of Proof of Purchase](https://github.com/lucasfini/SmartHome/blob/master/images/Proof%20of%20purchase.png)
