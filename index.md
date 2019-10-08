@@ -2,6 +2,13 @@
 
  <h1> Smart Home Monitor - Lucas, Andrew, Luca </h1>
 
+<h1 id="october-08st-week-6">October 08st, 2019 (Week 6)</h1>
+<p> Got my parts for future weeks. Getting ready to design the breadboard and pcb <p>
+ 
+ ![Image of BluePill](https://github.com/lucasfini/SmartHome/blob/master/images/BluePill.jpeg)
+ 
+ ![Image of Mq-2](https://github.com/lucasfini/SmartHome/blob/master/images/Mq-2.jpeg)
+
 <h1 id="october-01st-week-5">October 01st, 2019 (Week 5)</h1>
 <p> Got my parts for future weeks. Proof of purchase is below. <p>
  
