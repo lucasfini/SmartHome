@@ -10,7 +10,7 @@
  
   ![Image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/bb.png)
   
-  <p> On the sensor, the AO and GND should be switched. I tried to change it in the program but could not figure it out
+  <p> On the sensor, the naming of AO and GND should be switched. I tried to change it in the program but could not figure it out. Since I am using MQ-2 and not MQ-4 the pinouts are a little different. 
   
   ![Image of Schematic](https://github.com/lucasfini/SmartHome/blob/master/images/schem.png)
   ![Image of PCB](https://github.com/lucasfini/SmartHome/blob/master/images/Pcb2.png)
