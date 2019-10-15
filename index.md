@@ -1,8 +1,17 @@
 
 
  <h1> Smart Home Monitor - Lucas, Andrew, Luca </h1>
+ 
+ h1 id="october-15th-week-7">October 15th, 2019 (Week 7)</h1>
+<p> Finished with the designs for my breadboard, schematic and PCB . Fritzing file is in the electronics Folder. Click on link down below. <p>
+ 
+  ![Image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/Breadboard.png)
+  ![Image of Schematic](https://github.com/lucasfini/SmartHome/blob/master/images/Schematic.png)
+  ![Image of PCB](https://github.com/lucasfini/SmartHome/blob/master/images/PCB.png)
+ 
+ 
 
-<h1 id="october-08st-week-6">October 08st, 2019 (Week 6)</h1>
+<h1 id="october-08th-week-6">October 08st, 2019 (Week 6)</h1>
 <p> Got my parts for future weeks. Getting ready to design the breadboard and pcb <p>
  
  ![Image of BluePill](https://github.com/lucasfini/SmartHome/blob/master/images/BluePill.jpeg)
