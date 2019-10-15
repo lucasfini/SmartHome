@@ -8,9 +8,9 @@
  [Design Fritzing Link](https://github.com/lucasfini/SmartHome/blob/master/electronics/Ceng318Design.fzz)
  
  
-  ![Image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/Breadboard1.png)
-  ![Image of Schematic](https://github.com/lucasfini/SmartHome/blob/master/images/Schematic1.png)
-  ![Image of PCB](https://github.com/lucasfini/SmartHome/blob/master/images/PCB.png)
+  ![Image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/bb.png)
+  ![Image of Schematic](https://github.com/lucasfini/SmartHome/blob/master/images/schem.png)
+  ![Image of PCB](https://github.com/lucasfini/SmartHome/blob/master/images/Pcb2.png)
  
  
 
