@@ -4,7 +4,13 @@
  
   <h1 id="october-29th-week-8">October 29th, 2019 (Week 8)</h1>
  
- ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/bb.png)
+ <p> Had problems with the STM32. The error is posted below. <p>
+ 
+ ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/JavaError.png)
+ 
+ <p> I then tried to fix this by ordering a FTDI which would allow the STM32 bootloader to work. Although that also came with errors.
+ 
+  ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/ff.png)
  
  <h1 id="october-15th-week-7">October 15th, 2019 (Week 7)</h1>
 <p> Finished with the designs for my breadboard, schematic and PCB . Fritzing file is in the electronics Folder. Click on link down below. <p>
