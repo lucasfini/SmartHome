@@ -10,7 +10,7 @@
  
  <p> I then tried to fix this by ordering a FTDI which would allow the STM32 bootloader to work. Although that also came with errors.
  
-  ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/ff.png)
+  ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/ff.PNG)
  
  <h1 id="october-15th-week-7">October 15th, 2019 (Week 7)</h1>
 <p> Finished with the designs for my breadboard, schematic and PCB . Fritzing file is in the electronics Folder. Click on link down below. <p>
