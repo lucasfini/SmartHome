@@ -2,6 +2,10 @@
 
  <h1> Smart Home Monitor - Lucas, Andrew, Luca </h1>
  
+
+  <h1 id="november-05th-week-9">November 05th, 2019 (Week 9)</h1>
+  <p> Soldering the pcb board was due this week. Was still having issues with week 8. Will solder Stm32 to pcb board with sensor, while I try to figure out the issue from last week<p>
+ 
   <h1 id="october-29th-week-8">October 29th, 2019 (Week 8)</h1>
   
   <p> UPDATE-Nov 4: Researched multiple ways to try and come up with a fix for this problem, couldn't figure it out. New Solution is to use a ST-Link V2 to program the stm32 instead of using a serial connection. <p>
