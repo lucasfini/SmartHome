@@ -3,6 +3,8 @@
  <h1> Smart Home Monitor - Lucas, Andrew, Luca </h1>
  
   <h1 id="october-29th-week-8">October 29th, 2019 (Week 8)</h1>
+  
+  <p> UPDATE-Nov 4: Researched multiple ways to try and come up with a fix for this problem, couldn't figure it out. New Solution is to use a ST-Link V2 to program the stm32 instead of using a serial connection. <p>
  
  <p> Had problems with the STM32. The error is posted below. <p>
  
