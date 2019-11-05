@@ -4,7 +4,16 @@
  
 
   <h1 id="november-05th-week-9">November 05th, 2019 (Week 9)</h1>
-  <p> Soldering the pcb board was due this week. Was still having issues with week 8. Will solder Stm32 to pcb board with sensor, while I try to figure out the issue from last week<p>
+  <p> Soldering the pcb board was due this week. Was not able to complete on time because of issues with my pcb board. Will try to figure out the problem between stm32 and serial connection. I have listed all the links below of all the videos and websites I visted to try and fix the solution. <p>
+ 
+ [STM32 Arduino (STM32F103C8 / Programming STM32 with Arduino and Mac)](https://www.youtube.com/watch?v=Ze6q6NidS5w)
+  [Installing the STM32 USB Bootloader, Easily!](https://www.youtube.com/watch?v=wGbiT6IxGP0&t=176s)
+  
+  [Getting Started with STM32 using Arduino IDE: Blinking LED](https://circuitdigest.com/microcontroller-projects/getting-started-with-stm32-development-board-stm32f103c8-using-arduino-ide)
+  
+ [Failed to init Device](https://onstep.groups.io/g/main/topic/failed_to_init_device/25067573?p=Created,,,20,1,0,0)
+ 
+ [Failed to init device STM32 using Arduino](http://stm32duinoforum.com/forum/viewtopic_f_20_t_2569.html)
  
   <h1 id="october-29th-week-8">October 29th, 2019 (Week 8)</h1>
   
