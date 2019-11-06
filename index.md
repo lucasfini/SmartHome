@@ -15,6 +15,12 @@
  
  [Failed to init device STM32 using Arduino](http://stm32duinoforum.com/forum/viewtopic_f_20_t_2569.html)
  
+ <p> I have uploaded picture of breadboard, to show how the FT232Rl and Stm32 blue pill are supposed to be hooked up.  <p>
+ 
+ ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/stm32-f232.png)
+ ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/realpic.jpg)
+ 
+ 
   <h1 id="october-29th-week-8">October 29th, 2019 (Week 8)</h1>
   
   <p> UPDATE-Nov 4: Researched multiple ways to try and come up with a fix for this problem, couldn't figure it out. New Solution is to use a ST-Link V2 to program the stm32 instead of using a serial connection. <p>
