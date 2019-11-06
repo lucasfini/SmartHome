@@ -15,7 +15,7 @@
  
  [Failed to init device STM32 using Arduino](http://stm32duinoforum.com/forum/viewtopic_f_20_t_2569.html)
  
- <p> I have uploaded picture of breadboard, to show how the FT232Rl and Stm32 blue pill are supposed to be hooked up.  <p>
+ <p> I have uploaded two pictures of the breadboarding to show how the FT232Rl and Stm32 blue pill are supposed to work together.  <p>
  
  ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/stm32-f232.png)
  ![Image of BootLoad Error](https://github.com/lucasfini/SmartHome/blob/master/images/realpic.jpg)
