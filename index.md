@@ -6,7 +6,10 @@
   <p>From using the github page that was supplied by Kristian Medri I was able to fix the errors that were coming up in Arduino 1.8.10. To fix the errors that I was getting you need to download the library down below for the stm32. For Uploading the Blink sketch we have to download the Arduino IDE. Then go to Tools > Boards > Boards Manager, the search the STM32 and install it.<p>
  
   ![Image of successful message](https://github.com/lucasfini/SmartHome/blob/master/images/FixedCode)
-   ![Image of board Manager](https://github.com/lucasfini/SmartHome/blob/master/images/BoardManager)
+  
+  ![Image of board Manager](https://github.com/lucasfini/SmartHome/blob/master/images/BoardManager)
+   
+  ![Image of Settings](https://github.com/lucasfini/SmartHome/blob/master/images/toolsSettings)
  
  
 
