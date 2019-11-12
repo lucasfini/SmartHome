@@ -2,6 +2,11 @@
 
  <h1> Smart Home Monitor - Lucas, Andrew, Luca </h1>
  
+  <h1 id="november-12th-week-9">November 12th, 2019 (Week 10)</h1>
+  <p>From using the github page that was supplied by Kristian Medri I was able to fix the errors that were coming up in Arduino 1.8.10. To fix the errors that I was getting you need to download the library down below for the stm32.<p>
+ 
+ 
+ 
 
   <h1 id="november-05th-week-9">November 05th, 2019 (Week 9)</h1>
   <p> Soldering the pcb board was due this week. Was not able to complete on time because of issues with my pcb board. Will try to figure out the problem between stm32 and serial connection. I have listed all the links below of all the videos and websites I visted to try and fix the solution. <p>
