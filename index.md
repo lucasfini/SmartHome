@@ -9,7 +9,7 @@
   
   ![Image of output](https://github.com/lucasfini/SmartHome/blob/master/images/output.png)
    
-  ![Image of Pcb](https://github.com/lucasfini/SmartHome/blob/master/images/PCB-Final.png)
+  ![Image of Pcb](https://github.com/lucasfini/SmartHome/blob/master/images/PCB%20Final.png)
 
  
   <h1 id="november-12th-week-10">November 12th, 2019 (Week 10)</h1>
