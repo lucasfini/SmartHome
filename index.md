@@ -6,10 +6,12 @@
  
  <p> I have completed week 9. The PCB is fully operational, and includes everything from week 8<p>
  
- ![Image of pcbon](https://github.com/lucasfini/SmartHome/blob/master/images/pcbob.jpg)
+ ![Image of pcbon](https://github.com/lucasfini/SmartHome/blob/master/images/pcbon.jpg)
   
+  <p> PCB Bottom <p>
   ![Image of pcbbottom](https://github.com/lucasfini/SmartHome/blob/master/images/pcbbottom.jpg)
    
+   <p> PCB Top <p>
   ![Image of Pcbtop](https://github.com/lucasfini/SmartHome/blob/master/images/pcbtop.jpg)
 
  
