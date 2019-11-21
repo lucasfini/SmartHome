@@ -3,6 +3,17 @@
  <h1> Smart Home Monitor - Lucas, Andrew, Luca </h1>
  
  <h1 id="november-19th-week-11">November 19th, 2019 (Week 11)</h1>
+ 
+ <p> I have completed week 9. The PCB is fully operational, and includes everything from week 8<p>
+ 
+ ![Image of pcbon](https://github.com/lucasfini/SmartHome/blob/master/images/pcbob.jpg)
+  
+  ![Image of pcbbottom](https://github.com/lucasfini/SmartHome/blob/master/images/pcbbottom.jpg)
+   
+  ![Image of Pcbtop](https://github.com/lucasfini/SmartHome/blob/master/images/pcbtop.jpg)
+
+ 
+ 
  <p> I have Completed week 8. I have added a buzzer to the breadboard, and I have added the programmer, and buzzer to the pcb board.<p>
  
   ![Image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/Bread.jpeg)
