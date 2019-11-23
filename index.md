@@ -5,7 +5,7 @@
  <h1 id="november-19th-week-11">November 19th, 2019 (Week 11)</h1>
  <p> I have designed the case on coral Draw and plan to lazer cut it. I would like to try to 3d print, but I don't have enough time.<p>
  
- ![Image of case](https://github.com/lucasfini/SmartHome/blob/master/images/Case.png)
+ ![Image of case](https://github.com/lucasfini/SmartHome/blob/master/images/Case.PNG)
  
  <p> I have completed week 9. The PCB is fully operational, and includes everything from week 8
 I did have to remake the pcb two times. The first time the file I got online for the blue pill was way to small, so I needed to find another resource.<p>
