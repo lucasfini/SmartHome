@@ -6,7 +6,7 @@
  
  <p> Finished my powerpoint presentation and my casing. I am all ready to present and have completed everything in the class except the ReadME file.<p>
  
- ![Image of case top](https://github.com/lucasfini/SmartHome/blob/master/images/Case%20Top.png)
+ ![Image of case top](https://github.com/lucasfini/SmartHome/blob/master/images/Case%20Top.PNG)
  
  ![Image of case side](https://github.com/lucasfini/SmartHome/blob/master/images/Case%20Side.png)
  
