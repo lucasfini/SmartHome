@@ -2,6 +2,14 @@
 
  <h1> Smart Home Monitor - Lucas, Andrew, Luca </h1>
  
+ <h1 id="november-26th-week-12">November 26th, 2019 (Week 12)</h1>
+ 
+ <p> Finished my powerpoint presentation and my casing. I am all ready to present and have completed everything in the class except the ReadME file.<p>
+ 
+ ![Image of case top](https://github.com/lucasfini/SmartHome/blob/master/images/Case%20Top.HEIC)
+ 
+ ![Image of case side](https://github.com/lucasfini/SmartHome/blob/master/images/Case%20Side.HEIC)
+ 
  <h1 id="november-19th-week-11">November 19th, 2019 (Week 11)</h1>
  <p> I have designed the case on coral Draw and plan to lazer cut it. I would like to try to 3d print, but I don't have enough time.<p>
  
