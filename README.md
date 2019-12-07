@@ -22,9 +22,9 @@
  
 ## UML-Diagram
 
-![image of packages](https://github.com/lucasfini/Gallery/blob/master/images/UML.png)
+![image of packages](https://github.com/lucasfini/SmartHome/blob/master/images/UML.png)
 
-![image of packages](https://github.com/lucasfini/Gallery/blob/master/images/systemdiagram.png)
+![image of packages](https://github.com/lucasfini/SmartHome/blob/master/images/systemdiagram.png)
 
 ## <a name="B"> Bill of Materials/Budget </a>
 
