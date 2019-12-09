@@ -28,6 +28,8 @@
 
 ## <a name="B"> Bill of Materials/Budget </a>
 
+The required price for my whole project is about $100. This is the price if you are a student at humber, and have collected the parts kit at the beginning of semester 1. If you do not have the parts kit, you will need to pay an extra $120 dollars for the parts kit. I also used the schools prototype lab to get my case and pcb made. If you would like to go to a external dealer, the price will increase on top of the $220 already spent for the parts and the kit. If you are a student the required materials will be below for you to view. 
+
 ## <a name="T"> Time Commitment </a>
 
 ## <a name="M"> Mechanical Assembly </a>
