@@ -79,11 +79,7 @@ Pin Layout:
 7. Now that all that is done with we can continue with attaching the buzzer, and MQ-2 Gas sensor.
 The New Connections will be:
 
-<p>Programmer to stm32 <p><p>STM32 to Buzzer<p><p>STM32 to MQ-2 Sensor<p>
-<p>   gnd to G         <p><p>   5V to VCC   <p><p> 5v to VCC<p>
-<p>   vcc to 5v        <p><p>   G to gnd      <p><p> G  to gnd<p>
-<p>   tx to a10        <p><p>   A12 to SIG    <p><p>A6 to AO<p>
-<p>   rx to a9<p>
+![image of completed breadbaord.](https://github.com/lucasfini/SmartHome/blob/master/images/Connections.png
 
 ![image of completed breadbaord.](https://github.com/lucasfini/SmartHome/blob/master/images/Bread.jpeg)
 
