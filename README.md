@@ -36,10 +36,15 @@ The required price for my whole project is about $100. This is the price if you 
 
 ## <a name="T"> Time Commitment </a>
 
+The first time Commitment I will talk about is the CENG-317 schedule. You will get 14 weeks to complete this hardware assignment. Each week is a new task to do, some will take longer than others. The weeks that most people have difficulties on is week 9 and 11. These weeks are the PCB solder and Enclosure due dates. Since you need external equipment to do these two weeks, it will be more difficult to find the time to do them. Plus, if you design your enclosure or pcb wrong, you will need to keep on trying until you get them right. Note: Try to be ahead for these two weeks, just incase something unexpected happens. 
+
+Now, this is for people that are building this on their free time. If you were to have all the equipment, and just needed to get the pcb and enclosure it should take you about a week, because of the shipping of pcb and enclosure. If you already have a pcb and enclosure you can realistically do this in a weekend. That is only if you have everything with you and are prepared. 
 
 ![image of schedule](https://github.com/lucasfini/SmartHome/blob/master/images/sch.png)
 
 ## <a name="M"> Mechanical Assembly </a>
+
+Wanna learn how to probably setup,code,wire,and enclose?**Instructions Below***
 
 ## <a name="P"> Pcb Soldering </a>
 
