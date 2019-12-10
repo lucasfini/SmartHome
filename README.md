@@ -58,7 +58,9 @@ Side Note: Before starting please make sure you have the materials listed above,
 
 4.Now you will need to setup the device on your breadboard. Make sure to switch the BOOT0 on the blue pill from 0 to 1. This will put it in programming mode. The picture below will show you how to do it. Once done plug the FTDI programmer into your computer.
 
-<p>Pin Layout: Programmer to stm32<p>
+Pin Layout:
+
+<p>Programmer to stm32<p>
 <p>gnd to G<p>
 <p>vcc to 5v<p>
 <p>tx to a10<p>
@@ -74,9 +76,16 @@ Side Note: Before starting please make sure you have the materials listed above,
 
 ![image of compile.](https://github.com/lucasfini/SmartHome/blob/master/images/FixedCode.png)
 
-7. Now that all that is done with 
+7. Now that all that is done with we can continue with attaching the buzzer, and MQ-2 Gas sensor.
+The New Connections will be:
 
+<p>Programmer to stm32    STM32 to Buzzer   STM32 to MQ-2 Sensor<p>
+<p>   gnd to G                5V to VCC          5v to VCC<p>
+<p>   vcc to 5v               G to gnd           G  to gnd<p>
+<p>   tx to a10               A12 to SIG         A6 to AO<p>
+<p>   rx to a9<p>
 
+![image of completed breadbaord.](https://github.com/lucasfini/SmartHome/blob/master/images/Bread.jpeg)
 
 
 
