@@ -45,8 +45,24 @@ Now, this is for people that are building this on their free time. If you were t
 ## <a name="M"> Mechanical Assembly </a>
 
 Wanna learn how to probably setup,code,wire,and enclose?  **Instructions Below**
+Side Note: Before starting please make sure you have the materials listed above, in the budget section. 
 
 1. Install [Arduino](https://www.arduino.cc/en/main/software)
+2. To learn how to program the STM32 Bluepill we will start with a simple blink program. First we need to install some board managers. Go to Tools>Boards Manager and install STM32F4xx boards and STM32F1xx/GD32F1xx baords.
+
+![image of baord](https://github.com/lucasfini/SmartHome/blob/master/images/board.png)
+
+3. Next go to Files>Examples>Basics>Blink. Change the code to how it is below.
+
+![image of blinkcode](https://github.com/lucasfini/SmartHome/blob/master/images/blink.png)
+
+4.Now you will need to setup the device on your breadboard. The picture below will show you how to do it.
+
+![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/realpic1.jpg)
+
+
+
+
 
 ## <a name="P"> Pcb Soldering </a>
 
