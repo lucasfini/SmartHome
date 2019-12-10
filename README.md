@@ -79,7 +79,7 @@ Pin Layout:
 7. Now that all that is done with we can continue with attaching the buzzer, and MQ-2 Gas sensor.
 The New Connections will be:
 
-![image of completed breadbaord.](https://github.com/lucasfini/SmartHome/blob/master/images/Connections.png
+![image of completed connections](https://github.com/lucasfini/SmartHome/blob/master/images/Connections.png)
 
 ![image of completed breadbaord.](https://github.com/lucasfini/SmartHome/blob/master/images/Bread.jpeg)
 
