@@ -36,6 +36,9 @@ The required price for my whole project is about $100. This is the price if you 
 
 ## <a name="T"> Time Commitment </a>
 
+
+![image of schedule](https://github.com/lucasfini/SmartHome/blob/master/images/sch.png)
+
 ## <a name="M"> Mechanical Assembly </a>
 
 ## <a name="P"> Pcb Soldering </a>
