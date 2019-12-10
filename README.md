@@ -56,13 +56,24 @@ Side Note: Before starting please make sure you have the materials listed above,
 
 ![image of blinkcode](https://github.com/lucasfini/SmartHome/blob/master/images/blink.png)
 
-4.Now you will need to setup the device on your breadboard. Make sure to switch the BOOT0 on the blue pill from 0 to 1. This will put it in programming mode. The picture below will show you how to do it.
+4.Now you will need to setup the device on your breadboard. Make sure to switch the BOOT0 on the blue pill from 0 to 1. This will put it in programming mode. The picture below will show you how to do it. Once done plug the FTDI programmer into your computer.
+
+Pin Layout: Programmer to stm32
+gnd to G
+vcc to 5v
+tx to a10
+rx to a9
 
 ![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/realpic1.jpg)
 
 5. Now go to tools and make sure to have similar options that are in the picture below. 
 
-![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/tool.png)
+![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/toolsSettings.png)
+
+6. Now once everthing is done, Click upload on the top left of arduino. It should show it compiling and once it is done, there should be a green light that will blink on the STM32.
+
+![image of compile.](https://github.com/lucasfini/SmartHome/blob/master/images/FixedCode.png)
+
 
 
 
