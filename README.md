@@ -58,11 +58,11 @@ Side Note: Before starting please make sure you have the materials listed above,
 
 4.Now you will need to setup the device on your breadboard. Make sure to switch the BOOT0 on the blue pill from 0 to 1. This will put it in programming mode. The picture below will show you how to do it. Once done plug the FTDI programmer into your computer.
 
-Pin Layout: Programmer to stm32
-gnd to G
-vcc to 5v
-tx to a10
-rx to a9
+<p>Pin Layout: Programmer to stm32<p>
+<p>gnd to G<p>
+<p>vcc to 5v<p>
+<p>tx to a10<p>
+<p>rx to a9<p>
 
 ![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/realpic1.jpg)
 
@@ -70,9 +70,11 @@ rx to a9
 
 ![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/toolsSettings.png)
 
-6. Now once everthing is done, Click upload on the top left of arduino. It should show it compiling and once it is done, there should be a green light that will blink on the STM32.
+6. Now once everthing is done, Click upload on the top left of arduino. It should show it compiling and once it is done, there should be a green light that will blink on the STM32. If there is an issue try hitting the reset button on the STM32 and try uploading again. 
 
 ![image of compile.](https://github.com/lucasfini/SmartHome/blob/master/images/FixedCode.png)
+
+7. Now that all that is done with 
 
 
 
