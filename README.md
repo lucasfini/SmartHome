@@ -44,7 +44,7 @@ Now, this is for people that are building this on their free time. If you were t
 
 ## <a name="M"> Mechanical Assembly </a>
 
-Wanna learn how to probably setup,code,wire,and enclose?**Instructions Below***
+Wanna learn how to probably setup,code,wire,and enclose?  **Instructions Below**
 
 ## <a name="P"> Pcb Soldering </a>
 
