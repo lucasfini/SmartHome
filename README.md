@@ -24,6 +24,8 @@
 
 ![image of packages](https://github.com/lucasfini/SmartHome/blob/master/images/UML.png)
 
+System Diagram
+
 ![image of packages](https://github.com/lucasfini/SmartHome/blob/master/images/systemdiagram.png)
 
 ## <a name="B"> Bill of Materials/Budget </a>
@@ -105,10 +107,30 @@ Now that we have the breadboarding portion completed, lets move on to PCB comple
 
 ## <a name="PU"> Power Up</a>
 
-## <a name="UT"> Unit Testing </a>
+Before plugging anything in you want to look at your PCB board and make sure all the wiring goes to the right place, and all the soldering is done correctly. Once plugged in make sure that everything lights up and that nothing is out. If something isn't lit, try fidgeting with the component that isn't turned on. If it still isn't on look at your soldering and make sure all the vias and connections are soldered correctly. If it still isn't working go back to your PCB design and make sure all the connections are correct, and if that doesn't work then you might have a faulty component. 
 
+ How the PCB looks when it is plugged in and all the components are working.
+  ![Image of Pcb](https://github.com/lucasfini/SmartHome/blob/master/images/pcboncrop.jpg)
+  
+
+## <a name="UT"> Unit Testing </a>
+I tested my product using a lighter. Since lighters contain butane the sensor should be able to sense the gas. As you can see below whenever I activate the lighter, the senser will senses a gas, and once it reaches above a safe thresh hold, the buzzer turns on. Once the thresh hold goes back down below 1100, it is safe and the buzzer turns off. With this sensor you will wanna configure it and make sure it is running properly. You also do need to allow it some time to heat up before use, or else the value might be higher than usual.
+
+![Image of output](https://github.com/lucasfini/SmartHome/blob/master/images/output.png)
+  
+![Image of casetop](https://github.com/lucasfini/SmartHome/blob/master/images/casetop.jpeg)
+  
+![Image of caseside](https://github.com/lucasfini/SmartHome/blob/master/images/caseSide.jpeg)
+  
+  
 ## <a name="PT"> Production Testing </a>
 
+With this product I only was able to test one gas, and the only reason for that is because all the other gasses are very dangerous, and hard to get a hold of. I was able to monitor the products data, and make sure everything was running correctly. If I was manufacturing multiple units of this product I would first make sure all soldering was done by automated machinary. It would speed up production time, and efficiency. Secondly, if this is used as a smoke sensor I would hard solder all the components to the PCB. I would do this because it would firstly, be more secure and secondly, users wouldn't have to worry about components coming loose. 
+
 ## <a name="R"> Reproducible?  </a>
+
+I believe that by following my instructions the product is reproducible. The only thing I didn't include was the Arduino code for testing out the sensor and that is because I don't want future students fully copying this github.
+
+
 
 
