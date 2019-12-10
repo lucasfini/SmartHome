@@ -50,15 +50,19 @@ Side Note: Before starting please make sure you have the materials listed above,
 1. Install [Arduino](https://www.arduino.cc/en/main/software)
 2. To learn how to program the STM32 Bluepill we will start with a simple blink program. First we need to install some board managers. Go to Tools>Boards Manager and install STM32F4xx boards and STM32F1xx/GD32F1xx baords.
 
-![image of baord](https://github.com/lucasfini/SmartHome/blob/master/images/board.png)
+![image of baord](https://github.com/lucasfini/SmartHome/blob/master/images/Boards.png)
 
 3. Next go to Files>Examples>Basics>Blink. Change the code to how it is below.
 
 ![image of blinkcode](https://github.com/lucasfini/SmartHome/blob/master/images/blink.png)
 
-4.Now you will need to setup the device on your breadboard. The picture below will show you how to do it.
+4.Now you will need to setup the device on your breadboard. Make sure to switch the BOOT0 on the blue pill from 0 to 1. This will put it in programming mode. The picture below will show you how to do it.
 
 ![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/realpic1.jpg)
+
+5. Now go to tools and make sure to have similar options that are in the picture below. 
+
+![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/tool.png)
 
 
 
