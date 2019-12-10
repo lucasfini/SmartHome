@@ -46,6 +46,8 @@ Now, this is for people that are building this on their free time. If you were t
 
 Wanna learn how to probably setup,code,wire,and enclose?  **Instructions Below**
 
+1. Install [Arduino](https://www.arduino.cc/en/main/software)
+
 ## <a name="P"> Pcb Soldering </a>
 
 ## <a name="PU"> Power Up</a>
