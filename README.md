@@ -66,6 +66,8 @@ Pin Layout:
 <p>tx to a10<p>
 <p>rx to a9<p>
 
+![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/stm32-f232.png)
+
 ![image of breadboard](https://github.com/lucasfini/SmartHome/blob/master/images/realpic1.jpg)
 
 5. Now go to tools and make sure to have similar options that are in the picture below. 
@@ -83,10 +85,23 @@ The New Connections will be:
 
 ![image of completed breadbaord.](https://github.com/lucasfini/SmartHome/blob/master/images/Bread.jpeg)
 
+## <a name="P"> Pcb and Soldering </a>
 
+Now that we have the breadboarding portion completed, lets move on to PCB completion. I did have some difficulty making the PCB and had to remake my PCB 3 times to get it working perfectly. Note: When imported a part from the internet to fritzing, even though it says it might be the part you need make sure its the right dimentions. This happened to me with my STM32,and I had to remake the PCB board. Another note: If you can't find the right parts online or in their internal library, use a **Generic female Header**. It can be used in place of most parts. After designing the PCB you should send the gerber files to the prototype lab so that they can make your PCB. Takes 1-2 days, depending on time and demand. The solder wasn't to difficult, just make sure you take your time, and make sure no two connections aren't soldered together. 
 
-
-## <a name="P"> Pcb Soldering </a>
+  ![Image of Pcb](https://github.com/lucasfini/SmartHome/blob/master/images/PCB%20Final.png)
+  
+ Bottom of the PCB board. I wanted everything on the top, so I made sure to put on the wire on the bottom. Since all the wiring is on the bottom, that means most of the soldering is on the bottom. 
+ 
+  ![Image of Pcb](https://github.com/lucasfini/SmartHome/blob/master/images/pcbbottomcrop.jpg)
+   
+ Top of PCB board. This is where my STM32, MQ-2 Sensor, Buzzor and FTDI programmer will plug in. 
+  ![Image of Pcb](https://github.com/lucasfini/SmartHome/blob/master/images/pcbtopcrop.jpg)
+      
+ How the PCB looks when it is plugged in and all the components are working.
+  ![Image of Pcb](https://github.com/lucasfini/SmartHome/blob/master/images/pcboncrop.jpg)
+  
+  
 
 ## <a name="PU"> Power Up</a>
 
